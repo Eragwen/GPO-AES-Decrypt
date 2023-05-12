@@ -1,4 +1,4 @@
-# Miscellaneous Python Scripts
+# AES Decrypt for GPO
 
 - `AES_Decrypt.py` : A script to decrypt cypher AES password. Useful for ADGPP.
 
